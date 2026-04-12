@@ -92,14 +92,24 @@ I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**
 
 ### 🏗️ Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Bennnna/PINN-Contrastive-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennnna&repo=PINN-Contrastive-Learning&theme=tokyonight&hide_border=true" alt="PINN"/>
-  </a>
-  <a href="https://github.com/Bennnna/Debating-Agent-Router">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bennnna&repo=Debating-Agent-Router&theme=tokyonight&hide_border=true" alt="Debate"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Bennnna/PINN-Contrastive-Learning"><b>🔋 PINN-Contrastive-Learning</b></a><br/>
+      <sub>Physics-Informed Neural Network with Momentum Contrastive Learning for Battery State of Health Estimation</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/SCIE_Q1-green?style=flat-square" alt="SCIE Q1"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Bennnna/Debating-Agent-Router"><b>🤖 Debating-Agent-Router</b></a><br/>
+      <sub>Debating Agent Router in Mixture of Vision-Language Model Experts for Autonomous Driving</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Multi--Agent-FF6F00?style=flat-square" alt="Multi-Agent"/>
+      <img src="https://img.shields.io/badge/SCIE_Q1-green?style=flat-square" alt="SCIE Q1"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
