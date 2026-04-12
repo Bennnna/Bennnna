@@ -14,7 +14,7 @@
 
 I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**, **Multi-Agent Systems**, and **Autonomous Driving Intelligence**. My research bridges the gap between multimodal perception and actionable decision-making for safety-critical autonomous systems.
 
-- 🎓 **Master of Engineering in Artificial Intelligence**, Dongguk University, Seoul (2024–2026)
+- 🎓 **M.S., Department of Computer Science and Artificial Intelligence**, Dongguk University, Seoul
 - 🔬 Focused on **VLA Reasoning**, **Multi-Agent Debate Frameworks**, and **Physics-Informed Neural Networks**
 - 🏆 Published in **CVPR 2026**, **Knowledge-Based Systems (SCIE Q1)**, and **Complex & Intelligent Systems (SCIE Q1)**
 
