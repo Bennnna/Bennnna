@@ -16,7 +16,7 @@ I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**
 
 - 🎓 **M.S., Department of Computer Science and Artificial Intelligence**, Dongguk University, Seoul
 - 🔬 Focused on **VLA Reasoning**, **Multi-Agent Debate Frameworks**, and **Physics-Informed Neural Networks**
-- 🏆 Published in **CVPR 2026**, **Knowledge-Based Systems (SCIE Q1)**, and **Complex & Intelligent Systems (SCIE Q1)**
+- 🏆 Published in **CVPR 2026(Poster)**, **Knowledge-Based Systems (SCIE Q1)**, and **Complex & Intelligent Systems (SCIE Q1)**
 
 ---
 
