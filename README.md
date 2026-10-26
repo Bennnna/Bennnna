@@ -32,10 +32,10 @@ I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**
       <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square" alt="CVPR"/>
     </td>
     <td align="center" width="25%" valign="top">
-      <h4>🚘 Current Research</h4>
-      <b>PhysMargin-CoC</b><br/>
+      <h4>🚘 PhysMargin-CoC</h4>
+      <a href="https://github.com/Bennnna/Phymargin_coc"><b>Reasoning–Physics Auditing</b></a><br/>
       <sub>Physical-Margin Chain-of-Contradiction Auditing for Reasoning–Physics Consistency in Driving VLA Models</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Research-In_Progress-f59e0b?style=flat-square" alt="Research in progress"/>
+      <img src="https://img.shields.io/badge/Physical_Margin-Auditing-0f766e?style=flat-square" alt="Physical-margin auditing"/>
     </td>
     <td align="center" width="25%" valign="top">
       <h4>🔋 Complex & Intelligent Systems</h4>
@@ -115,7 +115,7 @@ Additional focus: **VLM Expert Routing**, **Context Decoupling**, and **Question
       <sub>Deterministic physical-margin auditing for reasoning–physics consistency in driving VLA models</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Multimodal-0f766e?style=flat-square" alt="Multimodal"/>
-      <img src="https://img.shields.io/badge/Research-In_Progress-f59e0b?style=flat-square" alt="Research in progress"/>
+      <img src="https://img.shields.io/badge/Physical_Margin-Auditing-0f766e?style=flat-square" alt="Physical-margin auditing"/>
     </td>
   </tr>
   <tr>
