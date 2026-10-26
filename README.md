@@ -16,6 +16,7 @@ I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**
 
 - 🎓 **M.S., Department of Computer Science and Artificial Intelligence**, Dongguk University, Seoul
 - 🔬 Focused on **VLA Reasoning**, **Physical-Margin Consistency Auditing**, and **Physics-Informed Neural Networks**
+- 🚗 Developing **Debating Agent Router v2** for **VLM Expert Routing**, **Context Decoupling**, and **Question-Granular Allocation**
 - 🏆 Published in **CVPR 2026(Poster)**, **Knowledge-Based Systems (SCIE Q1)**, and **Complex & Intelligent Systems (SCIE Q1)**
 
 ---
@@ -43,6 +44,17 @@ I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**
       <img src="https://img.shields.io/badge/SCIE-Q1-green?style=flat-square" alt="SCIE Q1"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <h4>🚗 Current Research</h4>
+      <a href="https://github.com/Bennnna/Debating-Agent-Router-v2"><b>Debating Agent Router v2</b></a><br/>
+      <sub>Debating Agent Router in a Mixture of Vision-Language Model Experts for Autonomous Driving</sub><br/>
+      <sub>Context decoupling and question-granular VLM expert allocation, with fixed-expert and coupled-router comparisons</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Research-In_Progress-f59e0b?style=flat-square" alt="Research in progress"/>
+      <img src="https://img.shields.io/badge/Code-v2-6C63FF?style=flat-square" alt="Code v2"/>
+      <img src="https://img.shields.io/badge/Repository-Private-64748b?style=flat-square" alt="Private repository"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -56,6 +68,8 @@ I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**
 ⚡ Physics-Informed Neural Nets     ████████████████░░░░░░░░░   64%
 🔬 Contrastive Learning             ██████████████░░░░░░░░░░░   56%
 ```
+
+Additional focus: **VLM Expert Routing**, **Context Decoupling**, and **Question-Granular Allocation** for driving VQA.
 
 ---
 
@@ -107,6 +121,19 @@ I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Multimodal-0f766e?style=flat-square" alt="Multimodal"/>
       <img src="https://img.shields.io/badge/Research-In_Progress-f59e0b?style=flat-square" alt="Research in progress"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Bennnna/Debating-Agent-Router-v2"><b>🚗 Debating-Agent-Router-v2</b></a><br/>
+      <sub>Runnable VLM routing system with dataset preparation, a frozen Stage-1 question rule, pinned models, comparison controls, and offline scoring</sub><br/><br/>
+      <a href="https://github.com/Bennnna/Debating-Agent-Router-v2/blob/main/DATASETS.md">Dataset Guide</a> ·
+      <a href="https://github.com/Bennnna/Debating-Agent-Router-v2/blob/main/README_ko.md">한국어 실행 안내</a><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/CPU_Tests-20_Passed-16a34a?style=flat-square" alt="20 CPU tests passed"/>
+      <img src="https://img.shields.io/badge/Repository-Private-64748b?style=flat-square" alt="Private repository"/>
     </td>
   </tr>
 </table>
