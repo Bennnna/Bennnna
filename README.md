@@ -25,34 +25,29 @@ I'm an **AI Researcher** specializing in **Vision-Language-Action (VLA) Models**
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%" valign="top">
       <h4>🚗 CVPR 2026</h4>
       <b>HybridDriveVLA</b><br/>
       <sub>Vision-Language-Action Model with Visual CoT Reasoning and ToT Evaluation for Autonomous Driving</sub><br/><br/>
       <img src="https://img.shields.io/badge/CVPR-2026-blue?style=flat-square" alt="CVPR"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%" valign="top">
       <h4>🚘 Current Research</h4>
       <b>PhysMargin-CoC</b><br/>
       <sub>Physical-Margin Chain-of-Contradiction Auditing for Reasoning–Physics Consistency in Driving VLA Models</sub><br/><br/>
       <img src="https://img.shields.io/badge/Research-In_Progress-f59e0b?style=flat-square" alt="Research in progress"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%" valign="top">
       <h4>🔋 Complex & Intelligent Systems</h4>
       <b>PINN for Battery SoH</b><br/>
       <sub>Physics-Informed Neural Network and Momentum Contrastive Learning for Battery State of Health Estimation</sub><br/><br/>
       <img src="https://img.shields.io/badge/SCIE-Q1-green?style=flat-square" alt="SCIE Q1"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <h4>🚗 Current Research</h4>
+    <td align="center" width="25%" valign="top">
+      <h4>🧭 Current Research</h4>
       <a href="https://github.com/Bennnna/Debating-Agent-Router-v2"><b>Debating Agent Router v2</b></a><br/>
-      <sub>Debating Agent Router in a Mixture of Vision-Language Model Experts for Autonomous Driving</sub><br/>
-      <sub>Context decoupling and question-granular VLM expert allocation, with fixed-expert and coupled-router comparisons</sub><br/><br/>
+      <sub>Debating Agent Router in a Mixture of Vision-Language Model Experts for Autonomous Driving</sub><br/><br/>
       <img src="https://img.shields.io/badge/Research-In_Progress-f59e0b?style=flat-square" alt="Research in progress"/>
-      <img src="https://img.shields.io/badge/Code-v2-6C63FF?style=flat-square" alt="Code v2"/>
-      <img src="https://img.shields.io/badge/Repository-Private-64748b?style=flat-square" alt="Private repository"/>
     </td>
   </tr>
 </table>
