@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Jiwoo+Jung;AI+Researcher+%7C+VLA+%7C+Multi-Agent+Systems" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="assets/research-header.svg" width="100%" alt="Hi, I'm Jiwoo Jung — Vision-Language-Action, Multi-Agent Systems, and Autonomous Driving"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jiwoo00"><img src="assets/badges/linkedin-0a66c2-70c29c.svg" alt="LinkedIn"/></a>

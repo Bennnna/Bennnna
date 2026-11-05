@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Jiwoo Jung. Vision-Language-Action and Multi-Agent Systems.</title>
+  <desc id="desc">Animated research banner with a dark blue background, a road perspective, visual detection boxes, and connected reasoning nodes. Research areas: autonomous driving, VLM expert routing, and physical consistency.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#071321"/><stop offset=".58" stop-color="#10253a"/><stop offset="1" stop-color="#13253a"/>
+    </linearGradient>
+    <radialGradient id="ambient"><stop stop-color="#267c9c" stop-opacity=".22"/><stop offset="1" stop-color="#267c9c" stop-opacity="0"/></radialGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1b3b50" stop-opacity=".1"/><stop offset="1" stop-color="#2b6e8d" stop-opacity=".22"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8bb2ce" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <clipPath id="round"><rect width="1200" height="360" rx="20"/></clipPath>
+    <clipPath id="typing"><rect x="68" y="84" width="535" height="65"><animate attributeName="width" calcMode="discrete" values="0.00;29.72;59.44;89.17;118.89;148.61;178.33;208.06;237.78;267.50;297.22;326.94;356.67;386.39;416.11;445.83;475.56;505.28;535.00;535.00;505.28;475.56;445.83;416.11;386.39;356.67;326.94;297.22;267.50;237.78;208.06;178.33;148.61;118.89;89.17;59.44;29.72;0.00;0.00" keyTimes="0;0.013333;0.026667;0.04;0.053333;0.066667;0.08;0.093333;0.106667;0.12;0.133333;0.146667;0.16;0.173333;0.186667;0.2;0.213333;0.226667;0.24;0.86;0.865556;0.871111;0.876667;0.882222;0.887778;0.893333;0.898889;0.904444;0.91;0.915556;0.921111;0.926667;0.932222;0.937778;0.943333;0.948889;0.954444;0.96;1" dur="11s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <ellipse cx="978" cy="164" rx="400" ry="330" fill="url(#ambient)"/>
+    <path d="M715 0L660 360" stroke="#8bb2ce" stroke-opacity=".08"/>
+    <rect x="0.5" y="0.5" width="1199" height="359" rx="20" fill="none" stroke="#54718b" stroke-opacity=".28"/>
+    <rect x="68" y="51" width="23" height="3" rx="1.5" fill="#5be1d2"/>
+    <text x="103" y="58" fill="#9db7ce" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2.3">AUTONOMOUS DRIVING RESEARCH</text>
+    <text x="68" y="133" fill="#f3f8ff" font-family="'Courier New', monospace" font-size="48" font-weight="700" clip-path="url(#typing)">Hi, I'm Jiwoo Jung</text>
+    <rect x="68" y="96" width="3" height="45" rx="1" fill="#5be1d2">
+      <animate attributeName="x" calcMode="discrete" values="68.00;97.72;127.44;157.17;186.89;216.61;246.33;276.06;305.78;335.50;365.22;394.94;424.67;454.39;484.11;513.83;543.56;573.28;603.00;603.00;573.28;543.56;513.83;484.11;454.39;424.67;394.94;365.22;335.50;305.78;276.06;246.33;216.61;186.89;157.17;127.44;97.72;68.00;68.00" keyTimes="0;0.013333;0.026667;0.04;0.053333;0.066667;0.08;0.093333;0.106667;0.12;0.133333;0.146667;0.16;0.173333;0.186667;0.2;0.213333;0.226667;0.24;0.86;0.865556;0.871111;0.876667;0.882222;0.887778;0.893333;0.898889;0.904444;0.91;0.915556;0.921111;0.926667;0.932222;0.937778;0.943333;0.948889;0.954444;0.96;1" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.49;.5;1" dur=".9s" repeatCount="indefinite"/>
+    </rect>
+    <text x="68" y="185" fill="#c1d2e3" font-family="Arial, Helvetica, sans-serif" font-size="20">Vision-Language-Action · Multi-Agent Systems</text>
+    <text x="68" y="219" fill="#88a6bf" font-family="Arial, Helvetica, sans-serif" font-size="17">Autonomous Driving · VLM Expert Routing</text>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="600" letter-spacing="1">
+      <rect x="68" y="261" width="132" height="30" rx="5" fill="#173647" stroke="#2a5a69"/>
+      <text x="83" y="280" fill="#7ee4d8">VLA REASONING</text>
+      <rect x="210" y="261" width="141" height="30" rx="5" fill="#172d47" stroke="#2c4d6e"/>
+      <text x="225" y="280" fill="#a2c8f4">EXPERT ROUTING</text>
+      <rect x="361" y="261" width="182" height="30" rx="5" fill="#222c48" stroke="#3b4266"/>
+      <text x="376" y="280" fill="#bec2ed">PHYSICAL CONSISTENCY</text>
+    </g>
+    <!-- Stylized camera field and lane geometry, used as decorative research imagery. -->
+    <g transform="translate(756 54)">
+      <text x="1" y="0" fill="#7e9bb5" font-family="'Courier New', monospace" font-size="10" letter-spacing="2">PERCEPTION / REASONING / ACTION</text>
+      <rect x="0" y="20" width="376" height="219" rx="11" fill="#081725" fill-opacity=".32" stroke="#4f7a94" stroke-opacity=".4"/>
+      <path d="M7 108H369" stroke="#3f6f89" stroke-opacity=".4" stroke-dasharray="2 7"/>
+      <path d="M152 109L46 238H331L225 109Z" fill="url(#road)"/>
+      <path d="M152 109L46 238M225 109L331 238" stroke="#70a6c3" stroke-opacity=".57" stroke-width="1.3"/>
+      <path d="M176 115L151 238M202 115L227 238" stroke="#70a6c3" stroke-opacity=".47" stroke-dasharray="7 10"/>
+      <path d="M100 178H276M74 207H305" stroke="#3f6f89" stroke-opacity=".2"/>
+      <g fill="#0d2835" stroke="#5be1d2" stroke-width="1.2">
+        <rect x="111" y="118" width="42" height="31" rx="3" fill-opacity=".45"/>
+        <rect x="231" y="98" width="23" height="44" rx="3" fill-opacity=".45"/>
+      </g>
+      <g stroke="#7edfd6" stroke-opacity=".62" fill="none"><path d="M105 114h8m-8 0v8m53-8h-8m8 0v8M226 94h8m-8 0v8m33-8h-8m8 0v8"/></g>
+      <path d="M131 118L131 64L290 64M243 98V80H290" stroke="#58a5bd" stroke-opacity=".6" fill="none"/>
+      <g fill="#143348" stroke="#72b6cc" stroke-opacity=".75">
+        <circle cx="300" cy="61" r="10"/><circle cx="333" cy="93" r="8"/><circle cx="300" cy="123" r="10"/>
+      </g>
+      <path d="M307 68L328 87M328 99L307 116M300 72V112" stroke="#72b6cc" stroke-opacity=".7" fill="none"/>
+      <circle r="2.5" fill="#7bf0dd"><animateMotion dur="4s" repeatCount="indefinite" path="M131 118L131 64L290 64"/></circle>
+      <circle cx="300" cy="123" r="4" fill="#7bf0dd"><animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/></circle>
+      <rect x="165" y="186" width="47" height="30" rx="6" fill="#254c60" stroke="#8fbad0" stroke-opacity=".7"/>
+      <path d="M172 192H205M178 211H199" stroke="#a2c8d8" stroke-opacity=".6"/>
+      <path d="M188 185V156" stroke="#5be1d2" stroke-opacity=".5" stroke-dasharray="3 5"/>
+      <circle cx="188" cy="150" r="3" fill="#5be1d2" fill-opacity=".8"/>
+      <text x="16" y="222" fill="#6b8aa4" font-family="'Courier New', monospace" font-size="8.5" letter-spacing="1.4">VISUAL EVIDENCE</text>
+      <text x="299" y="222" fill="#6b8aa4" font-family="'Courier New', monospace" font-size="8.5" letter-spacing="1.4">VLA</text>
+    </g>
+    <path d="M68 321H1132" stroke="#5c849f" stroke-opacity=".18"/>
+    <text x="68" y="342" fill="#6988a3" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.3">DONGGUK UNIVERSITY · COMPUTER SCIENCE AND ARTIFICIAL INTELLIGENCE</text>
+  </g>
+</svg>
