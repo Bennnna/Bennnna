@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/research-header.svg" width="100%" alt="Hi, I'm Jiwoo Jung — Vision-Language-Action, Multi-Agent Systems, and Autonomous Driving"/>
+  <img src="assets/research-header.svg?v=5cdacc18" width="100%" alt="Hi, I'm Jiwoo Jung — Vision-Language-Action, Multi-Agent Systems, and Autonomous Driving"/>
 </p>
 
 <p align="center">
